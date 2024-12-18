@@ -6,7 +6,7 @@ import { QueryClient, VueQueryPlugin } from '@tanstack/vue-query'
 
 import { defineNuxtPlugin } from '#app';
 
-export default defineNuxtPlugin(async (nuxtApp) => {
+export default defineNuxtPlugin((nuxtApp) => {
 
 
     const projectId = "0a8bf20f7564bfcf7e1c57fc68232edd"
