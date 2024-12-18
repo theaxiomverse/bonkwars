@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen flex flex-col"> <header class="bg-base-200 py-4">
+  <div class="flex flex-col"> <header class="bg-base-200 py-4">
     <div class="container mx-auto px-4">
       <div class="navbar">
         <div class="navbar-start">

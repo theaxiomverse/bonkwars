@@ -143,16 +143,7 @@ onMounted(() => {
 
 <style>
 /* Base styles */
-body {
-  margin: 0;
-  min-height: 100vh;
-  transition:
-      background-color 0.3s,
-      color 0.3s;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+
 
 /* Theme styles */
 body.dark {
